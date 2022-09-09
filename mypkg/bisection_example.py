@@ -3,7 +3,7 @@ import mypkg.prini as prini
 
 def driver():
 
-    f = lambda x: (x-2)**3
+    f = lambda x: x^2*(x-1)
     a = 0.5
     b = 2
 
